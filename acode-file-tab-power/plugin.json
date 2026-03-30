@@ -1,0 +1,9 @@
+{
+  "id": "acode.filetab.power",
+  "name": "File Tab Power",
+  "version": "1.0.0",
+  "minVersionCode": 290,
+  "description": "Atalhos avançados para gerir arquivos e pastas no Acode.",
+  "author": "Codex",
+  "main": "main.js"
+}
